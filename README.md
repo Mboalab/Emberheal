@@ -69,7 +69,8 @@ Rest aside, our app includes an intuitive system for actively monitoring patient
 ### ♦ Aim and Vision : 
 Our aim with ‘EmberHeal’ is to streamline healthcare management, particularly in resource-constrained settings. We envision a future where access to quality healthcare is unaffected by language barriers or geographical distances. Through automated note-keeping, multilingual transcribing, and soft diagnoses, we aim to enhance the accessibility and efficiency of healthcare.
 
-For more clarity you can checkout the presentation  -  [Link](www.canva.com/design/DAF6uLpqGzA/7gfGq24WQLcfsAfZhKkakw/edit?utm_content=DAF6uLpqGzA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+For more clarity you can checkout the presentation  :   <a href="https://www.canva.com/design/DAF6uLpqGzA/7gfGq24WQLcfsAfZhKkakw/edit?utm_content=DAF6uLpqGzA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">LINK</a>
+<!--[Link](https://www.canva.com/design/DAF6uLpqGzA/7gfGq24WQLcfsAfZhKkakw/edit?utm_content=DAF6uLpqGzA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) -->
 
 
 ### Applicant's Guide

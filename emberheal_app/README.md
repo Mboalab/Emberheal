@@ -51,4 +51,4 @@ We welcome contributions! To contribute to this project, follow these steps:
 - Write clear and concise code.
 - Document your code using comments.
 - Test thoroughly before submitting a pull request.
-- While creating pull request attach screen recording of working of emberheal_app
+- While creating pull request attach screen recording of working of emberheal_app (your changes/contribution)

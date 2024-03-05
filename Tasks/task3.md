@@ -39,3 +39,4 @@ Integrate the Flask backend with the EmberHeal frontend Flutter application.
 
 > [!NOTE]  
 > Reach out to project mentors for clarification (if needed).
+
